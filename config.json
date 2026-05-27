@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondelete",
+        "uuid": 8249000,
+        "checksum": "w3ui4j"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
